@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on for the better development of my mistakes and practices
 - 📫 How to reach me hayridoguhankorkmaz@gmail.com or my Linkedin adress www.linkedin.com/in/hayri-doğuhan-korkmaz-85608b202
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBkODVvazNraDNzbDMzZ21jZ3phZTh3d2p4MXNjYnEyNG51bzdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="100"/>
 </div>
 <!---
