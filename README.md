@@ -20,7 +20,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
 <hr>
-
+<div id="stats" align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayriDoguhanKorkmaz)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!---
 HayriDoguhanKorkmaz/HayriDoguhanKorkmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
