@@ -21,7 +21,7 @@
 </div>
 <hr>
 <div id="stats" align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayriDoguhanKorkmaz)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HayriDoguhanKorkmaz&theme=dark&border_radius=60)](https://git.io/streak-stats)
 </div>
 <!---
 HayriDoguhanKorkmaz/HayriDoguhanKorkmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
